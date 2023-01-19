@@ -12,11 +12,12 @@ I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailw
 *   🚀  I'm currently working on [A Swahili Programming Language](http://github.com/curry-bean/Jambo)
 *   🧠  I'm learning I'm learning JS, Cyber Security
 *   🤝  I'm open to collaborating on I'm open to collaborating on a video-Marketing Site.
-*   ⚡  I\`m a high functioning Machiavellian 🤫<a href="https://www.github.com/curry-bean" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/curry-bean?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.twitter.com/AlvinWachira_KE" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/AlvinWachira_KE?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
-                /></a>### Skills 
-<p align="left">
+*   ⚡  I\`m a high functioning Machiavellian 🤫
+<a href="https://www.github.com/curry-bean" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/curry-bean?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+       <a href="https://www.twitter.com/AlvinWachira_KE" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/AlvinWachira_KE?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -36,24 +37,13 @@ I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailw
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-
-                    
-   
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/curry-bean" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://hashnode.com/@CurryBean.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/alohatech_kenya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/alvin-victor-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/AlvinWachira_KE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                         
+<a href="https://www.github.com/curry-bean" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://hashnode.com/@CurryBean.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/alohatech_kenya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/alvin-victor-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/AlvinWachira_KE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/curry-bean"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=curry-bean&stroke=22c55e&background=1c1917&ring=10b981&fire=10b981&currStreakNum=22c55e&currStreakLabel=10b981&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a><a
                       href="http://www.github.com/curry-bean"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=curry-bean&bg_color=1c1917&color=22c55e&line=ec4899&point=22c55e&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>### Support Me<a
                   href="https://www.buymeacoffee.com/currybean"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</p>
