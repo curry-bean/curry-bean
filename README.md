@@ -13,11 +13,12 @@ I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailw
 *   🧠  I'm learning I'm learning JS, Cyber Security
 *   🤝  I'm open to collaborating on I'm open to collaborating on a video-Marketing Site.
 *   ⚡  I\`m a high functioning Machiavellian 🤫
-<a href="https://www.github.com/curry-bean" target="_blank" rel="noreferrer"><img
+<p align="left">
+  <a href="https://www.github.com/curry-bean" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/curry-bean?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
        <a href="https://www.twitter.com/AlvinWachira_KE" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/AlvinWachira_KE?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
-
+</p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
