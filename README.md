@@ -53,4 +53,6 @@ I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailw
 ### Support Me
 <a href="https://www.buymeacoffee.com/currybean"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{curry-bean}/count.svg)
+  
+  
