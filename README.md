@@ -52,3 +52,5 @@ I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailw
 <a href="http://www.github.com/curry-bean"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=curry-bean&bg_color=1c1917&color=22c55e&line=ec4899&point=22c55e&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ### Support Me
 <a href="https://www.buymeacoffee.com/currybean"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
