@@ -46,8 +46,9 @@ I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailw
 <a href="https://www.twitter.com/AlvinWachira_KE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges<b>My GitHub Stats</b>
 <a href="http://www.github.com/curry-bean"><img src="https://github-readme-stats.vercel.app/api?username=curry-bean&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="curry-bean's GitHub stats" /></a>
-
 <a href="http://www.github.com/curry-bean"><img src="https://github-readme-streak-stats.herokuapp.com/?user=curry-bean&stroke=22c55e&background=1c1917&ring=10b981&fire=10b981&currStreakNum=22c55e&currStreakLabel=10b981&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+
+<a href="https://github.com/curry-bean" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curry-bean&langs_count=10&title_color=10b981&text_color=22c55e&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/curry-bean"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=curry-bean&bg_color=1c1917&color=22c55e&line=ec4899&point=22c55e&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ### Support Me
