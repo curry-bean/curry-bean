@@ -3,6 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer,Entrepreneur, Visionary
 -------------------------------------
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curry-bean/curry-bean/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curry-bean/curry-bean/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/curry-bean/curry-bean/main/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailwind CSS))... I also do website development using PHP,WordPress, Wix. Under my belt are various currently being used sites 1.deblees.co.ke 2. somafix.co.ke 3. aloha-kenya.co.ke 4. innovativeglass.co.ke PreviousIy have worked on systems that are being used to date : 1. school.covercloudlimited.com - A School ERP solution with the following modules: Parent,Student,Teacher and Admin Modules.
 
